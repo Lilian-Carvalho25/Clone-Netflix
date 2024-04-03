@@ -62,7 +62,7 @@ export default () =>{
       </section>
 
       <footer>
-        Feito por <a href="https://github.com/Rodrigo-L-Oliveira" target="_blank">Lilian Carvalho</a><br/>
+        Feito por <a href="https://github.com/Lilian-Carvalho25" target="_blank">Lilian Carvalho</a><br/>
         Direitos de imagem para a Netflix e respectivas empresas<br/>
         Dados pegos do site themoviedb.org
       </footer>
